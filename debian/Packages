@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
 Installed-Size: 16528659
 Filename: ./qob_0.1.0_arm64.deb
-Size: 10826448
-MD5sum: a3119bc804221cca3efa51301b1c7545
-SHA1: 9e37465421ab6513438b75b1e53673b274b884b6
-SHA256: e0087391e4469a5857e235dfa88e09e2c0e69012d1379c5b340bc04f144746c0
+Size: 10826424
+MD5sum: 96bb3a2d28cae82d48669f44fdbcf320
+SHA1: 3b3fed83ec0782d989c55bcb5616f29c3a013000
+SHA256: 1803b6b9235ebad51e6b9d5adbabbaf55b0d48cb62ace8e076e39459ba8ab82e
 Priority: optional
 Homepage: https://github.com/cl-qob/cli
 Description: CLI for building, running, testing, and managing your Common Lisp dependencies
@@ -18,10 +18,10 @@ Architecture: amd64
 Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
 Installed-Size: 16918026
 Filename: ./qob_0.1.0_amd64.deb
-Size: 10857914
-MD5sum: 9b692f04495d058e7f811038b0d91d6e
-SHA1: 781edcc8039e21b964283d22f464c6649b0ce814
-SHA256: 851302f4d7b7b22c7d34d7f56bae5b00005635abf94d2542018606a4b49cb29a
+Size: 10857948
+MD5sum: 627afe6c08110a2a4932842b1e37e239
+SHA1: 15a41655bfe2396cd187ec9b7ed7aa33e63db838
+SHA256: 02f1cb2e0950e3ed74a63fa65a05158f177d00e6a183a924fb46390806274459
 Priority: optional
 Homepage: https://github.com/cl-qob/cli
 Description: CLI for building, running, testing, and managing your Common Lisp dependencies
