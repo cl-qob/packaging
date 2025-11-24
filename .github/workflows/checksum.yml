@@ -104,7 +104,7 @@ jobs:
 
     - name: Push updated formula
       continue-on-error: true
-      uses: jcs090218/github-push-action@master
+      uses: jcs-actions/github-push-action@master
       with:
         branch: master
         rebase: true
@@ -178,7 +178,7 @@ jobs:
 
     - name: Push updated formula
       continue-on-error: true
-      uses: jcs090218/github-push-action@master
+      uses: jcs-actions/github-push-action@master
       with:
         branch: master
         rebase: true
@@ -242,7 +242,7 @@ jobs:
 
     - name: Push latest checksum
       continue-on-error: true
-      uses: jcs090218/github-push-action@master
+      uses: jcs-actions/github-push-action@master
       with:
         branch: master
         rebase: true
