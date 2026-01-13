@@ -39,6 +39,9 @@ jobs:
         version: 'snapshot'
 
     - uses: actions/checkout@v6
+      with:
+        persist-credentials: false
+        fetch-depth: 1
 
     - name: Expose Version
       id: expose-ver
@@ -67,6 +70,9 @@ jobs:
         version: 'snapshot'
 
     - uses: actions/checkout@v6
+      with:
+        persist-credentials: false
+        fetch-depth: 1
 
     - uses: suisei-cn/actions-download-file@master
       name: Download Binaries (Target)
@@ -136,6 +142,9 @@ jobs:
         version: 'snapshot'
 
     - uses: actions/checkout@v6
+      with:
+        persist-credentials: false
+        fetch-depth: 1
 
     - uses: suisei-cn/actions-download-file@master
       name: Download Binaries (Target)
@@ -205,6 +214,9 @@ jobs:
         version: 'snapshot'
 
     - uses: actions/checkout@v6
+      with:
+        persist-credentials: false
+        fetch-depth: 1
 
     - uses: suisei-cn/actions-download-file@master
       name: Download Binaries (Target)
