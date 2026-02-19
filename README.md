@@ -13,17 +13,17 @@ This repository records Qob CLI's status to each package manager.
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/qob-cli.svg)](https://repology.org/project/qob-cli/versions)
 
-#### 🧪 Nix
+#### 🧪 Nix (macOS or Linux)
 > N/A
 
 WIP
 
-#### 🧪 Guix
+#### 🧪 Guix (macOS or Linux)
 > N/A
 
 WIP
 
-#### 🧪 Homebrew
+#### 🧪 Homebrew (macOS or Linux)
 > https://github.com/cl-qob/packaging/blob/master/Formula/qob-cli.rb
 
 [![Brew Install](https://github.com/cl-qob/packaging/actions/workflows/brew_install.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/brew_install.yml)
@@ -31,12 +31,12 @@ WIP
 
 - https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/has.rb - Use it as the reference!
 
-#### 🧪 MacPorts
+#### 🧪 MacPorts (macOS)
 > N/A
 
 WIP
 
-#### 🧪 Debian
+#### 🧪 Debian (Linux)
 > https://github.com/cl-qob/packaging/tree/master/debian
 
 [![Debian Update](https://github.com/cl-qob/packaging/actions/workflows/debian_update.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/debian_update.yml)
@@ -44,12 +44,12 @@ WIP
 [![Debian Release](https://github.com/cl-qob/packaging/actions/workflows/debian_release.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/debian_release.yml)
 [![Debian Install](https://github.com/cl-qob/packaging/actions/workflows/debian_install.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/debian_install.yml)
 
-#### 🧪 Snap
+#### 🧪 Snap (Linux)
 > N/A
 
 WIP
 
-#### 🧪 Chocolatey
+#### 🧪 Chocolatey (Windows)
 > https://community.chocolatey.org/packages/qob-cli
 
 ![Chocolatey Version (including pre-releases)](https://img.shields.io/chocolatey/v/qob-cli?logo=chocolatey)
@@ -57,13 +57,13 @@ WIP
 
 [![Choco Update](https://github.com/cl-qob/packaging/actions/workflows/choco_update.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/choco_update.yml)
 
-#### 🧪 Scoop
+#### 🧪 Scoop (Windows)
 > https://github.com/cl-qob/packaging/blob/master/bucket/qob-cli.json
 
 [![Scoop Install](https://github.com/cl-qob/packaging/actions/workflows/scoop_install.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/scoop_install.yml)
 [![Scoop Update](https://github.com/cl-qob/packaging/actions/workflows/scoop_update.yml/badge.svg)](https://github.com/cl-qob/packaging/actions/workflows/scoop_update.yml)
 
-#### 🧪 Winget
+#### 🧪 Winget (Windows)
 > N/A
 
 WIP
